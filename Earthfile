@@ -1,5 +1,5 @@
 VERSION 0.7
-PROJECT avjpl/my-project
+PROJECT avjpl/earthly-project-test
 
 FROM alpine:3.18
 
